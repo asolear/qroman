@@ -12,7 +12,7 @@ hide:
 </br>
 <p style="font-size: 33px; color: white;font-family: 'Roboto Condensed', sans-serif;font-weight: bold;">Hacia la transición energética</p>
 <p style="font-size: 22px; color: white;font-family: Roboto Condensed;">
-Hola, soy Quico Roman, ingeniero colegiado (26975),  especializado en control, energías renovables, eficiencia y movilidad sostenible.
+Hola, soy Quico Roman, ingeniero (Colegiado N.:26975),  especializado en control, energías renovables, eficiencia y movilidad sostenible.
 </p>
 <p style="font-size: 22px; color: white;font-family: Roboto Condensed;">
 
