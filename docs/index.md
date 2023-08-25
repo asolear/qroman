@@ -10,13 +10,10 @@ hide:
 </br>
 </br>
 </br>
-<p style="font-size: 33px; color: white;font-family: 'Roboto Condensed', sans-serif;font-weight: bold;">Hacia la transición energética</p>
-<p style="font-size: 22px; color: white;font-family: Roboto Condensed;">
-Hola, soy Quico Roman, ingeniero (Colegiado N.:26975),  especializado en control, energías renovables, eficiencia y movilidad sostenible.
-</p>
-<p style="font-size: 22px; color: white;font-family: Roboto Condensed;">
+<p style="font-size: 33px; color: white;font-family: 'Roboto Condensed', sans-serif;font-weight: bold;">Explorando un Futuro Sostenible: Descubriendo las Energías Renovables</p>
 
-En este blog incluyo algunos casos prácticos de estudios y proyectos  para el diseño de instalaciones de energía solar fotovoltaica, diseño de la infraestructura de recarga del Vehículo Eléctrico, etc.
+<p style="font-size: 22px; color: white;font-family: Roboto Condensed;">
+En este blog, nos sumergiremos en el mundo de las energías renovables a través de la perspectiva única de un ingeniero e instalador especializado. Exploraremos la normativa y las últimas innovaciones en tecnologías de generación solares y eólicas, entenderemos cómo se diseñan, construyen, legalizan, tramitan subvenciones... para los sistemas de energía renovable.
 
 
 </br>
