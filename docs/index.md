@@ -13,8 +13,8 @@ hide:
 <p style="font-size: 33px; color: white;font-family: 'Roboto Condensed', sans-serif;font-weight: bold;">Explorando un Futuro Sostenible: Descubriendo las Energías Renovables</p>
 
 <p style="font-size: 22px; color: white;font-family: Roboto Condensed;">
-En este blog, nos sumergiremos en el mundo de las energías renovables a través de la perspectiva única de un ingeniero e instalador especializado. Exploraremos la normativa y las últimas innovaciones en tecnologías de generación solares y eólicas, entenderemos cómo se diseñan, construyen, legalizan  y tramitan subvenciones<sup>*</sup> para los sistemas de energía renovable.
-x
+En este blog, nos sumergiremos en el mundo de las energías renovables a través de la perspectiva única de un ingeniero e instalador especializado. Exploraremos la normativa y las últimas innovaciones en tecnologías de generación solares y eólicas, entenderemos cómo se diseñan, construyen, legalizan  y tramitan subvenciones<sup>1</sup> para los sistemas de energía renovable.
+
 
 
 </br>
@@ -31,10 +31,11 @@ x
 </div>
 </br>
 </br>
-</br></br>
 </br>
 </br>
-<span style="font-size: smaller;">(*) Se han cambiado los nombres y DNI/NIF de los documentos por valores ficticios.</span>
+</br>
+</br>
+<span style="font-size: smaller;">[1] Los nombres y DNI/NIF que aparecen el blog no son reales.</span>
 
 
 <style> 
