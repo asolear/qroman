@@ -13,7 +13,11 @@ hide:
 <p style="font-size: 33px; color: white;font-family: 'Roboto Condensed', sans-serif;font-weight: bold;">Explorando un Futuro Sostenible: Descubriendo las Energías Renovables</p>
 
 <p style="font-size: 22px; color: white;font-family: Roboto Condensed;">
-En este blog, nos sumergiremos en el mundo de las energías renovables a través de la perspectiva única de un ingeniero e instalador especializado. Exploraremos la normativa y las últimas innovaciones en tecnologías de generación solares y eólicas, entenderemos cómo se diseñan, construyen, legalizan  y tramitan subvenciones<sup>1</sup> para los sistemas de energía renovable.
+
+La <strong>Gestoría de Autoconsumo</strong> es un espacio de información y asesoramiento con la perspectiva de un equipo de ingenieros e instaladores especializados, con vocación de apoyar a los consumidores (particulares, comercios y empresas) que deseen optar por una instalación de autoconsumo para abrir la puerta a una energía justa, limpia y accesible.
+
+</p>
+
 
 
 
@@ -35,7 +39,7 @@ En este blog, nos sumergiremos en el mundo de las energías renovables a través
 </br>
 </br>
 </br>
-<span style="font-size: smaller;">[1] Los nombres y DNI/NIF que aparecen el blog no son reales.</span>
+<span style="font-size: smaller;">[1] Las informaciones personales que aparecen la documentación de muestra son ficticias.</span>
 
 
 <style> 
